@@ -34,5 +34,17 @@ locust
 
 locuct arayüzü --> http://localhost:8089
 
+---
+
+## çıktılar
+Toplam istek sayısı
+	•	Ortalama yanıt süresi
+	•	Percentile metrikleri
+	•	Error rate
+	•	Requests per second
+
+Tüm sonuçlar Locust UI üzerinden canlı olarak görüntülenebilir.
+
+
 
 
